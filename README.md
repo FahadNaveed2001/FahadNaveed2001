@@ -42,11 +42,4 @@ Currently exploring deeper innovations in **AI voice systems**, **conversational
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=FahadNaveed2001&theme=dark&show_icons=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=FahadNaveed2001&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FahadNaveed2001&theme=dark&layout=compact)
-
----
-
 [![](https://visitcount.itsvg.in/api?id=FahadNaveed2001&icon=0&color=0)](https://visitcount.itsvg.in)
