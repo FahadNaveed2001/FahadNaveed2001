@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi there, I'm Fahad Naveed
 
-<!--
-**FahadNaveed2001/FahadNaveed2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Engineer | Full-Stack Developer | Problem Solver**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 About Me
+I’m a passionate software engineer with experience in building scalable web applications, designing clean architectures, and contributing to open-source projects.  
+
+- 🌱 Currently exploring **TypeScript**, **Node.js**, and **Next.js**
+- 👯 Looking to collaborate on **open-source projects** and innovative tech
+- 🛠️ Skills: JavaScript, Python, React, Node.js, MongoDB, Docker, AWS
+- ⚡ Fun Fact: I love automating repetitive tasks and optimizing workflows
+
+
+🧰 Tools & Technologies
+Frontend : React, Next.js, HTML, CSS, Tailwind
+Backend  : Node.js, Express, Python, Flask
+Database : MongoDB, MySQL, PostgreSQL
+Cloud    : AWS, Docker, Heroku
+Version Control : Git, GitHub
