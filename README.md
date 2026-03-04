@@ -9,13 +9,6 @@ Currently exploring deeper innovations in **AI voice systems**, **conversational
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahad-bin-naveed-0a8249289/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fahadshelby2001@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?logo=github&logoColor=white)](https://github.com/FahadNaveed2001)
-
----
-
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -39,6 +32,13 @@ Currently exploring deeper innovations in **AI voice systems**, **conversational
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+---
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahad-bin-naveed-0a8249289/) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fahadshelby2001@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?logo=github&logoColor=white)](https://github.com/FahadNaveed2001)
 
 ---
 
